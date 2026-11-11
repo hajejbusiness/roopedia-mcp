@@ -1,0 +1,28 @@
+{
+  "name": "roopedia-mcp",
+  "version": "1.0.0",
+  "description": "Official Model Context Protocol (MCP) server for Roopedia — query 430+ verified AI software pricing tiers, free-tier rules, compliance signals, and the live CC-BY 4.0 AI Ecosystem Barometer.",
+  "type": "module",
+  "bin": {
+    "roopedia-mcp": "./index.mjs"
+  },
+  "main": "./index.mjs",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "ai-tools",
+    "saas-pricing",
+    "roopedia",
+    "claude",
+    "cursor"
+  ],
+  "homepage": "https://roopedia.com/mcp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hajejbusiness/roopedia-mcp.git"
+  },
+  "license": "MIT"
+}
